@@ -1,0 +1,90 @@
+.sign-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.signform {
+    width: 100%;
+    margin-top: 97px;
+    margin-left: 27px;
+}
+.signform p{
+    color: rgb(1, 119, 119);
+    font-size: 14px;
+    margin-top: 8px;
+}
+.signup-form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 180px;
+    margin-top: 30px;
+
+}
+
+.signform span {
+    color: #03574a;
+    font-size: 40px;
+    margin-left: 38px;
+}
+
+.signup-input,
+.sign-btn {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 1px solid rgb(236, 226, 226);
+    background-color: #f0f3f2;
+}
+
+.sign-btn {
+    background-color: #069781;
+    border-radius: 15px;
+    color: #f0f3f2;
+    font-size: 20px;
+
+}
+.sign-btn:hover{
+    transform: translateY(-2px);
+    background-color: #00b79b;
+    color: aliceblue;
+}
+
+.signup-content {
+    margin-top: 60px;
+    margin-right: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.signu-image {
+    margin-right: 70px;
+    margin-top: 60px;
+}
+
+.account-sign {
+
+    margin-top: -80px;
+}
+
+.account-sign p,
+.account-sign a,
+.loginmedia {
+    font-size: 13px;
+}
+
+.loginmedia {
+    padding: 10px;
+}
+
+.googleicon {
+    width: 60px;
+}
