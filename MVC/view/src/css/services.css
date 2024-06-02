@@ -1,0 +1,56 @@
+
+.mabtns{ 
+    flex-direction: column;
+     width: 65%;
+     margin-left: 160px;
+     margin-top: 60px;  
+}
+.mabtns-btn:hover{
+ background-color: #daa62e;   
+ color: aliceblue;
+}
+
+.mabtns-btn{
+    color: #f3f3f3;
+    border-radius: 10px;
+    font-size: 14px;
+    border: #daa62e 1px solid;
+    display: block;
+    background-color: #daa62e;
+}
+.mabtns-btn:hover{
+    background-color: #d4b773;
+}
+ .diff{
+   background-color: #daa62e;
+}
+.diff:hover{
+    background-color: #b88606;
+}
+.mabtns li{
+    padding: 4px;
+   list-style-type: none;
+}
+.ttsArea{
+    display: flex;
+    width: 100%;
+   justify-content: space-between;
+   height: 85vh;
+}
+.audio-area{
+    display: grid;
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+audio{
+    width: 60%;
+    margin-left:45px ;
+}
+.textArea{
+    width: 70%;
+    border: 2px solid rgb(240, 230, 230);
+    border-radius: 3px;
+    height: 60vh;
+}

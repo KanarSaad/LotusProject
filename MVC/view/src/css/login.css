@@ -1,0 +1,107 @@
+.login-container {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;  
+}
+
+.lognform .enterdata {
+    width: 50%;
+    margin-left: 90px;
+    color: rgb(1, 119, 119);
+    
+}
+.enterdata{
+    padding: 10px;
+}
+.lognform {
+    width:50%;
+    margin-top: 79px;
+    padding: 12px;
+}
+
+.log-input {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 8px;
+    font-size: 15px;
+    border: 1px solid rgb(236, 226, 226);
+    background-color: #f0f3f2;
+}
+
+.log-btn {
+    background-color: #00917C;
+    margin-top: 10px;
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 8px;
+    font-size: 20px;
+}
+.log-btn:hover{
+    transform: translateY(-2px);
+    background-color: #00b79b;
+    color: aliceblue;
+}
+.account-sign {
+    font-size: 16px;
+}
+
+.lognform span {
+    color: #076858;
+    font-size: 45px;
+    margin-right: 150px;
+}
+
+.lognform p {
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+.content {
+    margin-top: 80px;
+    margin-left: 42px;
+}
+
+.fogotPass {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    margin-left: 12px;
+
+}
+
+.fogotPass p,
+.loginmedia p,
+.account-sign p {
+    color: #868484;
+    font-size: 12px;
+}
+
+.fogotPass a,
+.account-sign a {
+    color: #00917C;
+    font-size: 12px;
+
+}
+
+.fogotPass a {
+    margin-top: 10px;
+    
+}
+
+.account-sign {
+    display: flex;
+    justify-content: center;
+}
+.sIimage{
+   width:90%;
+   margin-right: 50px;
+   margin-top: 40px;
+}
+.login-on-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left:90px;
+   
+}
